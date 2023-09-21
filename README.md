@@ -4,7 +4,7 @@ I'm **Wentao Huang** and currently a motivated Computer Science student in Londo
 solving problems with technology and creating different solutions.
 
 - 🏡 I’m currently living in London.
-- 🌱 I’m currently learning Java Web and Frameworks.
+- 🌱 I’m currently learning Machine Learning.
 - ✈️ I love to travel and get to know new places and cultures.
 - ⚡ Fun fact: I'm crazy into playing *City Skylines* and building my own city.
 - 📫 How to reach me: h_wentao@yahoo.com
